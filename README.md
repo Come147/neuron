@@ -1,4 +1,4 @@
-# neuron
+# neuron-redesign
 A Neural networks toolbox with a focus on medical image analysis in tensorflow/keras for now.  
 Note: this is **under ongoing development**
 
